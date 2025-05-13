@@ -15,3 +15,10 @@ section#hero h1 {
     text-align: center;
     text-wrap: wrap;
 }
+
+article#rand-num {
+    font-size: 10rem;
+    color: var(--pico-primary);
+    font-weight: bold;
+    text-align: center;
+}
